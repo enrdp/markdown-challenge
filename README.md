@@ -2,7 +2,7 @@
 
 > *Anyone who has never made a mistake has never tried anything new.* - **(Albert Einstein)**
 
-<div style="display:block; margin-left: auto; margin-right: auto; width: 50%;">
+<div style="display:flex; justify-content: center;">
    
 ![My photo](https://github.com/enrdp/markdown-challenge/blob/main/Enrico.jpeg "Enrico photo")
 
