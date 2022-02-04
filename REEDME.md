@@ -4,7 +4,7 @@
 
 ![My photo](https://# "Enrico' photo")
 
-### Me, in one sentence
+## I think, therefore I code.
 
 |   |   |
 |---|---|
@@ -13,7 +13,7 @@
 |**Favorite food:**| Pasta |
 |**Pinneapple on pizza:**| NO |
 
-### Hobbies
+## Hobbies
 
 1. Sport
    - Basket
@@ -28,15 +28,14 @@
 
 3. Bartending
 
-#### You can always count on me when...
+## You can always count on me when...
 
-You can count on me when you have any technical or personal problem, do not hesitate to contact me. 
+You can count on me when you have any technical or personal problem, your problems are my problems too.
 
-
-
-
+## A funny story
 
 
 
+### My hair is my strength!
 
-My hair is my strength!
+[<< Previous](https://github.com/SashBFa/markdown-challenge/blob/main/README.md) || Enrico || [Next >>](https://github.com/fabver82/markdown-challenge/blob/main/README.md)
