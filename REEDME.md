@@ -9,7 +9,7 @@
 ### Me, in one sentence
 
 
-|   |   |
+
 |---|---|
 |**Birthday:**| 17/07/1989 |
 |**Favorite color:**| Green |
