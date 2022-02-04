@@ -33,8 +33,9 @@
 
 You can count on me when you have any technical or personal problem, your problems are my problems too.
 
-## A funny story
+## Where do the superheroes go shopping? At the supermarket !
 
+When I was working as a bartender, i got the recipe wrong for a cocktail but any customer has realized that instead of using rum I had added gin. All this until a colleague of mine told me this, but now I have continued to do them the same way. And the funny thing is that some customers told me it was the best cocktail they had tried.
 
 
 ### My hair is my strength!
