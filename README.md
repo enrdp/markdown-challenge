@@ -2,7 +2,7 @@
 
 > *Anyone who has never made a mistake has never tried anything new.* - **(Albert Einstein)**
 
-![My photo](https://github.com/enrdp/markdown-challenge/blob/main/Enrico.jpeg "Enrico photo"){.center}
+![My photo](https://github.com/enrdp/markdown-challenge/blob/main/Enrico.jpeg "Enrico photo")
 
 ## I think, therefore I code.
 
@@ -39,12 +39,3 @@ You can count on me when you have any technical or personal problem, your proble
 ### My hair is my strength!
 
 [<< Previous](https://github.com/SashBFa/markdown-challenge/blob/main/README.md) || Enrico || [Next >>](https://github.com/fabver82/markdown-challenge/blob/main/README.md)
-
-
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
