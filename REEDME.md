@@ -9,7 +9,7 @@
 ### Me, in one sentence
 
 
-| Syntax | Description |
-| ----------- | ----------- |
+| Syntax | ----------- | A |
+|  | ----------- |
 | Header | Title |
 | Paragraph | Text | 
