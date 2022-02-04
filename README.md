@@ -12,7 +12,7 @@
 |**Birthday:**| 17/07/1989 |
 |**Favorite color:**| Green |
 |**Favorite food:**| Pasta |
-|**Pinneapple on pizza:**| &#9744; :white_large_square: |
+|**Pinneapple on pizza:**| &#9744; |
 
 ## Hobbies
 
