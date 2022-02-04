@@ -39,3 +39,4 @@ You can count on me when you have any technical or personal problem, your proble
 ### My hair is my strength!
 
 [<< Previous](https://github.com/SashBFa/markdown-challenge/blob/main/README.md) || Enrico || [Next >>](https://github.com/fabver82/markdown-challenge/blob/main/README.md)
+<link href="style.css" rel="stylesheet"></link>
