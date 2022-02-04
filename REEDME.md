@@ -16,15 +16,15 @@
 ## Hobbies
 
 1. **Sport**
-   - Basket
-   - Football
+   - *Basket*
+   - *Football*
 
 2. **Film**
-   - The Big Lebowski
-   - Pulp Fiction
-   - The Godfather
-   - Star Wars: The Empire Strikes Back
-   - Fight Club
+   - *The Big Lebowski*
+   - *Pulp Fiction*
+   - *The Godfather*
+   - *Star Wars: The Empire Strikes Back*
+   - *Fight Club*
 
 3. **Bartending**
 
