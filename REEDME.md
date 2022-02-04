@@ -15,18 +15,18 @@
 
 ## Hobbies
 
-1. Sport
+1. **Sport**
    - Basket
    - Football
 
-2. Film
+2. **Film**
    - The Big Lebowski
    - Pulp Fiction
    - The Godfather
    - Star Wars: The Empire Strikes Back
    - Fight Club
 
-3. Bartending
+3. **Bartending**
 
 ## You can always count on me when...
 
