@@ -1,6 +1,6 @@
 # Enrico Del Priore
 
-> *Anyone who has never made a mistake has never tried anything new.* - (Albert Einstein)
+> *Anyone who has never made a mistake has never tried anything new.* - **(Albert Einstein)**
 
 ![My photo](https://github.com/enrdp/markdown-challenge/blob/main/Enrico.jpeg "Enrico photo")
 
