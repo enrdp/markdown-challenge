@@ -9,7 +9,9 @@
 ### Me, in one sentence
 
 
-| Syntax | ----------- | A |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+|   |   |
+|---|---|
+|**Birthday:**| 17/07/1989 |
+|**Favorite color:**| Green |
+|**Favorite food:**| Pasta |
+|**Pinneapple on pizza:**| NO |
