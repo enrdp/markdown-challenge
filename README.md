@@ -2,10 +2,8 @@
 
 > *Anyone who has never made a mistake has never tried anything new.* - **(Albert Einstein)**
 
-<center>   
 ![My photo](https://github.com/enrdp/markdown-challenge/blob/main/Enrico.jpeg "Enrico photo")
    
-</center>
 
 ## I think, therefore I code.
 
